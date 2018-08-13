@@ -1,10 +1,11 @@
 # AngularFoodApp
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
-## Install related 
+## Install related
 - node : v10.8.0
 - nvm: 6.2.0
 - mongoDB
+- `npm install express --save`
 
 ## Build
 - Run `ng build --prod`. The build artifacts will be stored in the `dist/` directory.
