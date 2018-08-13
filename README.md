@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - node : v10.8.0
 - nvm: 6.2.0
 - mongoDB
-- `npm install express --save`
+- `npm install express mongoose --save`
 
 ## Build
 - Run `ng build --prod`. The build artifacts will be stored in the `dist/` directory.
