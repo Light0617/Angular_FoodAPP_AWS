@@ -5,6 +5,7 @@
 /tmp
 /out-tsc
 /mongodb/data/journal/
+/mongodb/data/diagnostic.data/
 
 # dependencies
 /node_modules
