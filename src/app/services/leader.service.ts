@@ -24,7 +24,7 @@ export class LeaderService{
 
   getFeaturedLeader(): Observable<Leader>{
     return this.restangular.all('leaders')
-               .getList({features: true})
+               .getList({featured: true})
                .pipe(map(leaders => leaders[0]));
   }
 }
